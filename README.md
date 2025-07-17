@@ -4,7 +4,10 @@
 Analyze customer churn data to identify key factors influencing churn and recommend strategies to improve retention.
 
 ## 📁 Files in this Project
+- file. original data set
+- churn_1.py: Load dataset
 - Churn_2.py: Data preprocessing and cleaning.
+- churn_3.py: cleaning dataset
 - cleaned_churn_data.csv: Output cleaned dataset.
 - Churn_4.py: Data visualization of key features.
 - Churn_5.py: Churn rate by features (contract, tenure, etc.).
