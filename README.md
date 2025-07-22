@@ -1,9 +1,9 @@
-# 📊 Customer Churn Analysis & Retention Strategy – Telecom Company
+# Customer Churn Analysis & Retention Strategy – Telecom Company
 
-## 🔍 Objective
+## Objective
 Analyze customer churn data to identify key factors influencing churn and recommend strategies to improve retention.
 
-## 📁 Files in this Project
+##  Files in this Project
 - file. original data set
 - churn_1.py: Load dataset
 - Churn_2.py: Data preprocessing and cleaning.
@@ -13,14 +13,14 @@ Analyze customer churn data to identify key factors influencing churn and recomm
 - Churn_5.py: Churn rate by features (contract, tenure, etc.).
 - Churn_Final_Analysis.py: Final insights and business recommendations.
 
-## 📌 Key Insights
+##  Key Insights
 - *Overall Churn Rate*: 26.6%
 - *Contract Type*: Month-to-month users churn 6x more than two-year contract users.
 - *Internet Service*: Fiber optic users have highest churn (~42%).
 - *Payment Method*: Users paying via electronic check are most likely to churn.
 - *Tenure*: New customers (0-6 months) have higher churn.
 
-## 🎯 Recommendations
+## Recommendations
 1. Reward loyalty for month-to-month users.
 2. Improve service reliability for fiber optic users.
 3. Engage new users with onboarding programs.
